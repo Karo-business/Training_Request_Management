@@ -1,61 +1,53 @@
-Training Request Management Process
-Business Analyst Portfolio Case Study
+# Training Request Management Process
 
-A practical Business Analyst case study focused on analyzing and improving an end-to-end training request management process.
+**Business Analyst Portfolio Case Study**
 
-Project Overview
-This case study demonstrates the analysis and redesign of a training request process, from identifying a training need and submitting a request through approval, trainer assignment, scheduling, delivery, feedback and process closure.
-The project focuses on translating a business problem into structured requirements, process models and data analysis.
+## Overview
 
-Business Analysis Approach
-The case study covers:
-- Business and stakeholder analysis
-- AS-IS process analysis
-- Process pain points and improvement opportunities
-- TO-BE process design
-- business and functional requirements
-- user stories and acceptance criteria
-- KPI definition
-- SQL-based data analysis
-- requirements traceability
-- UML Use Case modeling
+This case study presents the analysis and improvement of an end-to-end training request management process.
 
-  Key Deliverables
-  Process Modeling
-  - AS-IS BPMN process
-  - TO-BE BPMN process
- 
-  Requirements Analysis
-  - Business Requirements
-  - Functional Requirements
-  - User Stories
-  - Acceptance Criteria
-  - Requirements Traceability
- 
-  Data Analysis
-  - SQL analysis using PostgreSQL
-  - Business-focused queries related to training requests, approvals, trainers and participant feedback
-  - KPI framework for measurinf process performance
- 
-  UML
-  - Use Case Diagram
+The project covers the process from identifying a training need and submitting a request through approval, trainer assignment, scheduling, training delivery, feedback and closure.
 
- Tools & Techniques
- BPMN
- PostgreSQL
- UML
- Requirements Engineering
- Process Analysis
- KPI Analysis
+The analysis focuses on identifying process issues, defining requirements and designing a more structured TO-BE process.
 
- Project Files
- portfolio
- AS-IS BPMN
- TO-BE BPMN
- Use Case Diagram
+## Business Analysis Activities
 
- About the Project
- This project was created as part of my Business Analyst portfolio to demonstrate practical skills in process analysis, requirements engineering, business-oriented data analysis and process improvement.
- The focus is on creating clear, traceable and business-relevant analysis rather than producing documentation for its own sake.
- 
-  
+* Stakeholder and process analysis
+* AS-IS and TO-BE process modeling
+* Business and functional requirements
+* User stories and acceptance criteria
+* KPI definition
+* SQL-based data analysis
+* Requirements traceability
+* UML Use Case modeling
+
+## Deliverables
+
+**Process models**
+
+* [AS-IS BPMN](./AS-IS.bpmn)
+* [TO-BE BPMN](./TO-BE.bpmn)
+
+**Requirements and analysis**
+
+* Business and Functional Requirements
+* User Stories and Acceptance Criteria
+* KPI Framework
+* SQL Analysis
+* Requirements Traceability
+
+**UML**
+
+* [Use Case Diagram](./Training%20Request%20Management.drawio.svg)
+
+**Full case study**
+
+* [Portfolio Document](./portfolio.docx)
+
+## Tools & Techniques
+
+BPMN · SQL · PostgreSQL · UML · Requirements Engineering · Process Analysis · KPI Analysis
+
+## About the Project
+
+This project was created as part of my Business Analyst portfolio to demonstrate practical experience with process analysis, requirements engineering and business-oriented data analysis.
