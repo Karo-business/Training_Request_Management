@@ -42,7 +42,7 @@ The analysis focuses on identifying process issues, defining requirements and de
 
 **Full case study**
 
-* [Portfolio Document](./portfolio.pdf)
+* [Portfolio Document](./Portfolio.pdf)
 
 ## Tools & Techniques
 
