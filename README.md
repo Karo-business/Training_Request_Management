@@ -4,11 +4,13 @@
 
 ## Overview
 
-This case study presents the analysis and improvement of an end-to-end training request management process.
+Overview
+
+This case study is based on process-related experience from my professional background and presents the analysis and improvement of an end-to-end training request management process.
 
 The project covers the process from identifying a training need and submitting a request through approval, trainer assignment, scheduling, training delivery, feedback and closure.
 
-The analysis focuses on identifying process issues, defining requirements and designing a more structured TO-BE process.
+The analysis focuses on identifying process issues, defining requirements and designing a more structured TO-BE process. The case study has been adapted and anonymized to demonstrate practical Business Analysis skills.
 
 ## Business Analysis Activities
 
@@ -47,7 +49,3 @@ The analysis focuses on identifying process issues, defining requirements and de
 ## Tools & Techniques
 
 BPMN · SQL · PostgreSQL · UML · Requirements Engineering · Process Analysis · KPI Analysis
-
-## About the Project
-
-This project was created as part of my Business Analyst portfolio to demonstrate practical experience with process analysis, requirements engineering and business-oriented data analysis.
