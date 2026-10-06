@@ -6,7 +6,7 @@
 
 Overview
 
-This case study is based on process-related experience from my professional background and presents the analysis and improvement of an end-to-end training request management process.
+This case study is based on process-related experience from my professional background. It presents the analysis and improvement of an end-to-end training request management process, including selected process improvements that I contributed to implementing.
 
 The project covers the process from identifying a training need and submitting a request through approval, trainer assignment, scheduling, training delivery, feedback and closure.
 
