@@ -4,8 +4,6 @@
 
 ## Overview
 
-Overview
-
 This case study is based on process-related experience from my professional background. It presents the analysis and improvement of an end-to-end training request management process, including selected process improvements that I contributed to implementing.
 
 The project covers the process from identifying a training need and submitting a request through approval, trainer assignment, scheduling, training delivery, feedback and closure.
@@ -48,4 +46,16 @@ The analysis focuses on identifying process issues, defining requirements and de
 
 ## Tools & Techniques
 
-BPMN · SQL · PostgreSQL · UML · Requirements Engineering · Process Analysis · KPI Analysis
+BPMN · SQL · PostgreSQL · UML · Jira · Requirements Engineering  · Process Analysis · KPI Analysis
+
+
+## Jira Practice
+
+Practiced translating business requirements into Jira work items based on the Training Request Management process, including:
+
+* User story structure and acceptance criteria
+* Prioritization and story point estimation
+* Sprint planning and status management
+* Work item dependencies and linking
+* JQL-based filtering and searching
+
